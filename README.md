@@ -19,7 +19,8 @@ QR Menü Projesi, restoranlar veya kafe gibi işletmelerde kullanılmak üzere H
 - **JavaScript**: Dinamik özelliklerin eklenmesi (örneğin, menüde gezinme, öğe gösterimi vb.).
 
 
-![Uploading EkranKayd2024-12-08155323-ezgif.com-video-to-gif-converter.gif…]
+![EkranKayd2024-12-08155323-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3a13f3cb-e98c-47f2-9a59-5592e22397f4)
+
 
  
 
