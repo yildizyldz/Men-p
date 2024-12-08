@@ -15,15 +15,11 @@ QR Menü Projesi, restoranlar veya kafe gibi işletmelerde kullanılmak üzere H
 ## Teknolojiler
 
 - **HTML**: Sayfa yapısının oluşturulması.
-- **CSS**: Sayfa tasarımının yapılması.
-
-
-Uploading Ekran Kaydı 2024-12-08 155323.mp4…
-
+- **CSS**: Sayfa tasarımının yapılması
 - **JavaScript**: Dinamik özelliklerin eklenmesi (örneğin, menüde gezinme, öğe gösterimi vb.).
 
 
-![Uploading EkranKayd2024-12-08155323-ezgif.com-video-to-gif-converter.gif…]()
+![Uploading EkranKayd2024-12-08155323-ezgif.com-video-to-gif-converter.gif…]
 
  
 
