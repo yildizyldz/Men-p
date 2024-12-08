@@ -22,10 +22,7 @@ Uploading Ekran Kaydı 2024-12-08 155323.mp4…
 
 - **JavaScript**: Dinamik özelliklerin eklenmesi (örneğin, menüde gezinme, öğe gösterimi vb.).
 
-- ![[[()]
-
-Uploading Ekran Kaydı 2024-12-08 155323.mp4…
-
+- ![()]
 
  
 
